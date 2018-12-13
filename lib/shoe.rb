@@ -17,6 +17,8 @@ class Shoe
   def cobble
     @condition 
      puts "Your shoe is as good as new!"
-    
+    #defines method cobble 
+    #gets the instance variable condition 
+    #puts statement 
   end 
 end
